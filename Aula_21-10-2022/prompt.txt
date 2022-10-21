@@ -1,0 +1,104 @@
+Microsoft Windows [versão 10.0.19043.1620]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\LAB4>cd c:\xampp\mysql\bin
+
+c:\xampp\mysql\bin>mysql -u root
+ERROR 2002 (HY000): Can't connect to MySQL server on 'localhost' (10061)
+
+c:\xampp\mysql\bin>mysql -u root
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 8
+Server version: 10.4.22-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> source c:\bd\exemplo.sql
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 1 row affected (0.001 sec)
+
+Database changed
+Query OK, 0 rows affected (0.042 sec)
+
+Query OK, 0 rows affected (0.021 sec)
+
+Query OK, 122 rows affected (0.007 sec)
+Records: 122  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.021 sec)
+
+Query OK, 23 rows affected (0.003 sec)
+Records: 23  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.018 sec)
+
+Query OK, 7 rows affected (0.003 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.019 sec)
+
+Query OK, 2996 rows affected (0.045 sec)
+Records: 2996  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.019 sec)
+
+Query OK, 326 rows affected (0.009 sec)
+Records: 326  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.017 sec)
+
+Query OK, 273 rows affected (0.007 sec)
+Records: 273  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.017 sec)
+
+Query OK, 7 rows affected (0.003 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.019 sec)
+
+Query OK, 110 rows affected (0.009 sec)
+Records: 110  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+MariaDB [classicmodels]>
+
+
+
+
+
+
